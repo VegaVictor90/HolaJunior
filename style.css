@@ -202,7 +202,8 @@ div.p{
     border-radius: 100px;
     position: relative;
     margin-top: 55px;
-    margin-left: 600px;
+    margin-left: 50%;
+    transform: translateX(-50%);
     color: #ffffff;    
 }
 .experiencias{
