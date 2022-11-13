@@ -322,10 +322,16 @@ div.p{
     }
     .sec1_texto{
         width: 100vw;
-        padding: 50px 10px 10px 50px;
+        padding: 0;
     }
     .sec1_texto h2{
-        font-size: 40px;
+        font-size: 28px;
+        padding-left: 50px;
+        padding-top: 40px;
+        line-height: 38px
+    }
+    .sec1_texto p{
+        padding-left: 50px;
     }
     .sec1_img img{
         width: 359px;
@@ -352,7 +358,7 @@ div.p{
         text-align: left;
     }
     .habilidades div{
-        margin-left: 50px;
+        margin-left: 70px;
         margin-bottom: 70px;
     }
     .habilidades div h3{
